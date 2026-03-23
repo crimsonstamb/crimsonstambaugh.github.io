@@ -1,1 +1,1 @@
-This is the source code is adapted from [here](https://jonbarron.info/)
+This is the source code is adapted from [Jon Barron's personal website](https://jonbarron.info/)
